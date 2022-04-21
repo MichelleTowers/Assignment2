@@ -21,6 +21,17 @@
   object-fit: cover;
   text-decoration: none;
 }
+.banner-navlink1 {
+  display: contents;
+}
+.banner-icon {
+  top: 44px;
+  right: 22px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  text-decoration: none;
+}
 .banner-root-class-name {
   width: 100%;
   align-self: center;

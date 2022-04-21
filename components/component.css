@@ -1,0 +1,13 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-navlink {
+  display: contents;
+}
+.component-icon {
+  width: 24px;
+  height: 24px;
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}

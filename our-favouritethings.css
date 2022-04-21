@@ -21,6 +21,17 @@
   object-fit: cover;
   text-decoration: none;
 }
+.banner-navlink1 {
+  display: contents;
+}
+.banner-icon {
+  top: 44px;
+  right: 22px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  text-decoration: none;
+}
 .banner-root-class-name {
   width: 100%;
   align-self: center;
@@ -393,24 +404,20 @@
   align-items: center;
   flex-direction: column;
 }
+.footer-link {
+  display: contents;
+}
 .footer-github-logo1 {
   fill: var(--dl-color-gray-black);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: none;
 }
 .footer-httpsgithubcom-michelle-towers-assignment2 {
   color: var(--dl-color-gray-black);
   align-self: flex-start;
   text-align: center;
-}
-.footer-navlink {
-  display: contents;
-}
-.footer-icon1 {
-  width: 24px;
-  height: 24px;
-  margin-left: var(--dl-space-space-unit);
   text-decoration: none;
 }
 
