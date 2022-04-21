@@ -29,15 +29,11 @@
   align-items: center;
   flex-direction: column;
 }
-.footer-link {
-  display: contents;
-}
 .footer-github-logo1 {
   fill: var(--dl-color-gray-black);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-doubleunit);
-  text-decoration: none;
 }
 .footer-httpsgithubcom-michelle-towers-assignment2 {
   color: var(--dl-color-gray-black);
@@ -49,10 +45,6 @@
 .footer-root-class-name1 {
   align-self: center;
 }
-
-
-
-
 
 
 
