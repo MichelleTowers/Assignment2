@@ -1,0 +1,1118 @@
+.navbar-nav {
+  flex: 0 0 auto;
+  width: 1198px;
+  height: 42px;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius24);
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.51);
+  border-top-right-radius: var(--dl-radius-radius-radius24);
+}
+.navbar-container {
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navbar-about {
+  transition: 0.3s;
+  text-decoration: none;
+}
+.navbar-about:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-team-profile {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-team-profile:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-ideal-jobs {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-ideal-jobs:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-tools {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-tools:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-industry-data {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-industry-data:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-i-t-technology {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-i-t-technology:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-interview {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-interview:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-project {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-project:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-reflections {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-reflections:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-references {
+  transition: 0.3s;
+  margin-left: 32px;
+  text-decoration: none;
+}
+.navbar-references:hover {
+  color: var(--dl-color-danger-300);
+}
+.navbar-root-class-name {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name1 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name2 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name3 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name4 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name5 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name6 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name7 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name8 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name9 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+.navbar-root-class-name10 {
+  top: 373px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 97%;
+  margin: auto;
+  position: absolute;
+  max-width: 1200px;
+  align-self: center;
+}
+
+@media(max-width: 991px) {
+  .navbar-container {
+    display: none;
+    align-items: flex-end;
+  }
+}
+@media(max-width: 767px) {
+  .navbar-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navbar-team-profile {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-ideal-jobs {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-tools {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-industry-data {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-i-t-technology {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-interview {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-project {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-reflections {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navbar-references {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.banner-banner {
+  width: 100%;
+  display: flex;
+  opacity: 1;
+  padding-top: var(--dl-space-space-fourunits);
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-fourunits);
+  background-size: cover;
+  justify-content: center;
+  background-image: radial-gradient(circle at center bottom, rgba(176, 14, 10, 0.61) 0.00%,rgb(0, 13, 15) 100.00%),url("https://images.unsplash.com/photo-1489731007795-388eee095ff6?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEwOHx8cmFjaW5nfGVufDB8fHx8MTY1MDE5MTQ1OA&ixlib=rb-1.2.1&w=1500");
+  background-position: right;
+}
+.banner-navlink {
+  display: contents;
+}
+.banner-traqstarz {
+  width: 396px;
+  height: 275px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.banner-root-class-name {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name1 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name2 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name3 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name4 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name5 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name6 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name7 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name8 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name9 {
+  width: 100%;
+  align-self: center;
+}
+.banner-root-class-name10 {
+  width: 100%;
+  align-self: center;
+}
+
+@media(max-width: 991px) {
+  .banner-banner {
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    background-image: radial-gradient(circle at center bottom, rgba(176, 14, 10, 0.61) 0.00%,rgb(0, 0, 0) 100.00%),url('https://images.unsplash.com/photo-1489731007795-388eee095ff6?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEwOHx8cmFjaW5nfGVufDB8fHx8MTY0OTg1MjE2MA&ixlib=rb-1.2.1&w=1500');
+  }
+  .banner-traqstarz {
+    width: 396px;
+    height: 275px;
+  }
+}
+@media(max-width: 767px) {
+  .banner-banner {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+@media(max-width: 479px) {
+  .banner-banner {
+    padding-top: 48px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 48px;
+  }
+}
+
+.footer-footer-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-color: rgba(217, 217, 217, 0.23);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.footer-footer {
+  width: 100%;
+  height: 54px;
+  display: flex;
+  align-self: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.51);
+}
+.footer-github-logo {
+  flex: 0 0 auto;
+  width: 24px;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+.footer-github-logo1 {
+  fill: var(--dl-color-gray-black);
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-space-space-doubleunit);
+}
+.footer-httpsgithubcom-michelle-towers-assignment2 {
+  color: var(--dl-color-gray-black);
+  align-self: flex-start;
+  text-align: center;
+}
+.footer-navlink {
+  display: contents;
+}
+.footer-icon1 {
+  width: 24px;
+  height: 24px;
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+
+.footer-root-class-name1 {
+  align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ideal-jobs-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #ffffff;
+}
+.ideal-jobs-container01 {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 100px;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: rgba(255, 224, 224, 0.42);
+}
+.ideal-jobs-image {
+  color: var(--dl-color-gray-black);
+  width: 50%;
+  font-size: 12px;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-family: Verdana;
+  margin-left: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius24);
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: rgba(255, 255, 255, 0.42);
+  border-bottom-right-radius: var(--dl-radius-radius-radius24);
+}
+.ideal-jobs-ideal-job-text {
+  color: var(--dl-color-gray-black);
+  width: 70%;
+  font-size: 12px;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  margin-top: var(--dl-space-space-unit);
+  text-align: left;
+  font-family: Verdana;
+  margin-left: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-doubleunit);
+  margin-right: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: var(--dl-radius-radius-radius24);
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-doubleunit);
+  background-color: rgba(255, 255, 255, 0.42);
+  border-bottom-right-radius: var(--dl-radius-radius-radius24);
+}
+.ideal-jobs-container02 {
+  display: flex;
+  max-width: 1400px;
+  align-self: center;
+  align-items: stretch;
+  padding-top: 48px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-bottom: 24px;
+  justify-content: space-between;
+}
+.ideal-jobs-container03 {
+  flex: 2;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 32px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-container04 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-blayne-profile {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  max-width: 1400px;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: space-between;
+}
+.ideal-jobs-thoughts {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 48px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-student-pic {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: 32px;
+}
+.ideal-jobs-thoughts01 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  margin-bottom: 32px;
+}
+.ideal-jobs-container05 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-student-name {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+.ideal-jobs-container06 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-blayne {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: var(--dl-radius-radius-round);
+}
+.ideal-jobs-burak-profile {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  max-width: 1400px;
+  align-self: flex-start;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-end;
+}
+.ideal-jobs-thoughts02 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 48px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-icon01 {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: 32px;
+}
+.ideal-jobs-thoughts03 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  margin-bottom: 32px;
+}
+.ideal-jobs-container07 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-student-name1 {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+.ideal-jobs-burak {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: var(--dl-radius-radius-round);
+}
+.ideal-jobs-container08 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ideal-jobs-charlie-profile {
+  width: 100%;
+  display: flex;
+  padding: 32px;
+  max-width: 1400px;
+  align-self: stretch;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: stretch;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-icon03 {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.ideal-jobs-thoughts04 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+.ideal-jobs-profile {
+  width: 100%;
+  display: flex;
+  margin-top: auto;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-charlie {
+  width: 96px;
+  height: 96px;
+  object-fit: fill;
+  border-radius: var(--dl-radius-radius-round);
+}
+.ideal-jobs-container09 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-unit);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-student-name2 {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.ideal-jobs-container10 {
+  display: flex;
+  max-width: 1400px;
+  align-self: center;
+  align-items: stretch;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-bottom: 48px;
+  justify-content: space-between;
+}
+.ideal-jobs-container11 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ideal-jobs-helia-profile {
+  width: 100%;
+  display: flex;
+  padding: 32px;
+  max-width: 1400px;
+  align-self: stretch;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: stretch;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-icon05 {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.ideal-jobs-thoughts05 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+.ideal-jobs-profile1 {
+  width: 100%;
+  display: flex;
+  margin-top: auto;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-helia {
+  width: 96px;
+  height: 96px;
+  object-fit: fill;
+  border-radius: var(--dl-radius-radius-round);
+}
+.ideal-jobs-container12 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-unit);
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-student-name3 {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.ideal-jobs-container13 {
+  flex: 2;
+  height: auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: flex-start;
+  margin-left: 32px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-container14 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ideal-jobs-jake-profile {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  max-width: 1400px;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: space-between;
+}
+.ideal-jobs-thoughts06 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 48px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-student-pic1 {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: 32px;
+}
+.ideal-jobs-thoughts07 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  margin-bottom: 32px;
+}
+.ideal-jobs-container15 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-student-name4 {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+.ideal-jobs-container16 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-jake {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: var(--dl-radius-radius-round);
+}
+.ideal-jobs-michelle-profile {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  max-width: 1400px;
+  background: #fff;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: space-between;
+}
+.ideal-jobs-thoughts08 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 48px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ideal-jobs-icon08 {
+  width: 48px;
+  flex-shrink: 0;
+  margin-bottom: 32px;
+}
+.ideal-jobs-thoughts09 {
+  color: var(--dl-color-gray-500);
+  font-size: 12px;
+  text-align: justify;
+  font-family: Verdana;
+  margin-bottom: 32px;
+}
+.ideal-jobs-container17 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.ideal-jobs-student-name5 {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+.ideal-jobs-michelle {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: var(--dl-radius-radius-round);
+}
+@media(max-width: 991px) {
+  .ideal-jobs-image {
+    text-align: center;
+  }
+  .ideal-jobs-ideal-job-text {
+    text-align: center;
+  }
+  .ideal-jobs-container02 {
+    flex-direction: column;
+  }
+  .ideal-jobs-container03 {
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+  .ideal-jobs-icon03 {
+    height: 96px;
+  }
+  .ideal-jobs-profile {
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+  }
+  .ideal-jobs-charlie {
+    margin-left: 0px;
+  }
+  .ideal-jobs-container10 {
+    flex-direction: column;
+  }
+  .ideal-jobs-icon05 {
+    height: 96px;
+  }
+  .ideal-jobs-profile1 {
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+  }
+  .ideal-jobs-helia {
+    margin-left: 0px;
+  }
+  .ideal-jobs-container13 {
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+}
+@media(max-width: 767px) {
+  .ideal-jobs-container02 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-blayne-profile {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-thoughts {
+    margin-right: 32px;
+  }
+  .ideal-jobs-student-pic {
+    height: 48px;
+  }
+  .ideal-jobs-burak-profile {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-thoughts02 {
+    margin-right: 32px;
+  }
+  .ideal-jobs-icon01 {
+    height: 48px;
+  }
+  .ideal-jobs-container10 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-jake-profile {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-thoughts06 {
+    margin-right: 32px;
+  }
+  .ideal-jobs-student-pic1 {
+    height: 48px;
+  }
+  .ideal-jobs-michelle-profile {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .ideal-jobs-thoughts08 {
+    margin-right: 32px;
+  }
+  .ideal-jobs-icon08 {
+    height: 48px;
+  }
+}
+@media(max-width: 479px) {
+  .ideal-jobs-container02 {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-blayne-profile {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    flex-direction: column;
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-thoughts {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-thoughts01 {
+    text-align: left;
+  }
+  .ideal-jobs-container05 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .ideal-jobs-burak-profile {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    flex-direction: column;
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-thoughts02 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-thoughts03 {
+    text-align: left;
+  }
+  .ideal-jobs-container07 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .ideal-jobs-charlie-profile {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-profile {
+    justify-content: center;
+  }
+  .ideal-jobs-container10 {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-helia-profile {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-profile1 {
+    justify-content: center;
+  }
+  .ideal-jobs-jake-profile {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    flex-direction: column;
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-thoughts06 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-thoughts07 {
+    text-align: left;
+  }
+  .ideal-jobs-container15 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .ideal-jobs-michelle-profile {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    flex-direction: column;
+    padding-bottom: 32px;
+  }
+  .ideal-jobs-thoughts08 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .ideal-jobs-thoughts09 {
+    text-align: left;
+  }
+  .ideal-jobs-container17 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
