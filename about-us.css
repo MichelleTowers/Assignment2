@@ -441,7 +441,7 @@
 
 
 
-.about\ us-container {
+.about-us-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -453,7 +453,7 @@
   list-style-image: none;
   list-style-position: outside;
 }
-.about\ us-container1 {
+.about-us-container1 {
   display: flex;
   align-items: flex-start;
   padding-top: var(--dl-space-space-tenunits);
@@ -461,7 +461,7 @@
   justify-content: space-between;
   background-color: rgba(255, 224, 224, 0.42);
 }
-.about\ us-team-name {
+.about-us-team-name {
   width: 400px;
   display: flex;
   align-self: center;
@@ -470,7 +470,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.about\ us-team-name1 {
+.about-us-team-name1 {
   color: var(--dl-color-gray-black);
   width: 400px;
   font-size: xxx-large;
@@ -479,7 +479,7 @@
   font-family: Roboto;
   margin-bottom: var(--dl-space-space-fiveunits);
 }
-.about\ us-container2 {
+.about-us-container2 {
   width: 80%;
   height: 80%;
   display: flex;
@@ -488,7 +488,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.about\ us-about-us {
+.about-us-about-us {
   width: 100%;
   height: 80%;
   display: flex;
@@ -496,7 +496,7 @@
   padding-bottom: 0px;
   justify-content: center;
 }
-.about\ us-container3 {
+.about-us-container3 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -506,7 +506,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.about\ us-first-3 {
+.about-us-first-3 {
   width: 100%;
   height: 100%;
   display: grid;
@@ -514,7 +514,7 @@
   align-self: center;
   grid-template-columns: 1fr 1fr 1fr;
 }
-.about\ us-blayne {
+.about-us-blayne {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -525,47 +525,47 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number {
+.about-us-student-number {
   color: #676666;
   font-family: Verdana;
   margin-bottom: var(--dl-space-space-tenunits);
 }
-.about\ us-blayne1 {
+.about-us-blayne1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me {
+.about-us-about-me {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-text {
+.about-us-text {
   font-family: Verdana;
 }
-.about\ us-name {
+.about-us-name {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github {
+.about-us-student-github {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration:     none ;
 }
-.about\ us-text03 {
+.about-us-text03 {
   font-family: Verdana;
 }
-.about\ us-blayne2 {
+.about-us-blayne2 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.about\ us-burak {
+.about-us-burak {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -576,49 +576,49 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number1 {
+.about-us-student-number1 {
   color: #676666;
   font-family: Verdana;
 }
-.about\ us-text04 {
+.about-us-text04 {
   font-family: Verdana;
 }
-.about\ us-burak1 {
+.about-us-burak1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me1 {
+.about-us-about-me1 {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-text05 {
+.about-us-text05 {
   text-align: justify;
 }
-.about\ us-name1 {
+.about-us-name1 {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github1 {
+.about-us-student-github1 {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration:     none ;
 }
-.about\ us-text07 {
+.about-us-text07 {
   font-family: Verdana;
 }
-.about\ us-burak2 {
+.about-us-burak2 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.about\ us-charlie {
+.about-us-charlie {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -629,46 +629,46 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number2 {
+.about-us-student-number2 {
   color: #676666;
   font-family: Verdana;
 }
-.about\ us-charlie1 {
+.about-us-charlie1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me2 {
+.about-us-about-me2 {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-text09 {
+.about-us-text09 {
   font-family: Verdana;
 }
-.about\ us-name2 {
+.about-us-name2 {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github2 {
+.about-us-student-github2 {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration:     none ;
 }
-.about\ us-text10 {
+.about-us-text10 {
   font-family: Verdana;
 }
-.about\ us-charlie2 {
+.about-us-charlie2 {
   width: 96px;
   height: 96px;
   object-fit: fill;
   border-radius: var(--dl-radius-radius-round);
 }
-.about\ us-about-us1 {
+.about-us-about-us1 {
   flex: 0;
   width: 100%;
   height: 80%;
@@ -677,7 +677,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.about\ us-container4 {
+.about-us-container4 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -690,14 +690,14 @@
   padding-bottom: 100px;
   justify-content: center;
 }
-.about\ us-last-3 {
+.about-us-last-3 {
   width: 100%;
   height: 100%;
   display: grid;
   grid-gap: 32px;
   grid-template-columns: 1fr 1fr 1fr;
 }
-.about\ us-helia {
+.about-us-helia {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -708,43 +708,43 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number3 {
+.about-us-student-number3 {
   color: #676666;
   font-family: Verdana;
 }
-.about\ us-helia1 {
+.about-us-helia1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me3 {
+.about-us-about-me3 {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-name3 {
+.about-us-name3 {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github3 {
+.about-us-student-github3 {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration: none;
 }
-.about\ us-text14 {
+.about-us-text14 {
   font-family: Verdana;
 }
-.about\ us-helia2 {
+.about-us-helia2 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.about\ us-jake {
+.about-us-jake {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -755,43 +755,43 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number4 {
+.about-us-student-number4 {
   color: #676666;
   font-family: Verdana;
 }
-.about\ us-jake1 {
+.about-us-jake1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me4 {
+.about-us-about-me4 {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-name4 {
+.about-us-name4 {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github4 {
+.about-us-student-github4 {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration:     none ;
 }
-.about\ us-text17 {
+.about-us-text17 {
   font-family: Verdana;
 }
-.about\ us-jake2 {
+.about-us-jake2 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.about\ us-michelle {
+.about-us-michelle {
   display: flex;
   padding: 32px;
   max-width: 1400px;
@@ -802,171 +802,171 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-student-number5 {
+.about-us-student-number5 {
   color: #676666;
   font-family: Verdana;
   margin-bottom: var(--dl-space-space-tenunits);
 }
-.about\ us-michelle1 {
+.about-us-michelle1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
-.about\ us-about-me5 {
+.about-us-about-me5 {
   color: var(--dl-color-gray-500);
   font-size: 12px;
   text-align: justify;
   font-family: Verdana;
 }
-.about\ us-name5 {
+.about-us-name5 {
   font-size: 1.5rem;
   font-weight: 300;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.about\ us-student-github5 {
+.about-us-student-github5 {
   color: #3c3cb3;
   font-family: Verdana;
   text-transform: capitalize;
   text-decoration:     none ;
 }
-.about\ us-text20 {
+.about-us-text20 {
   font-family: Verdana;
 }
-.about\ us-michelle2 {
+.about-us-michelle2 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
 @media(max-width: 991px) {
-  .about\ us-first-3 {
+  .about-us-first-3 {
     grid-template-columns: 1fr;
   }
-  .about\ us-last-3 {
+  .about-us-last-3 {
     grid-template-columns: 1fr;
   }
 }
 @media(max-width: 767px) {
-  .about\ us-team-name {
+  .about-us-team-name {
     width: 100%;
   }
-  .about\ us-container3 {
+  .about-us-container3 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-blayne {
+  .about-us-blayne {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-burak {
+  .about-us-burak {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-charlie {
+  .about-us-charlie {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-container4 {
+  .about-us-container4 {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-helia {
+  .about-us-helia {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-jake {
+  .about-us-jake {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .about\ us-michelle {
+  .about-us-michelle {
     padding-left: 32px;
     padding-right: 32px;
   }
 }
 @media(max-width: 479px) {
-  .about\ us-container3 {
+  .about-us-container3 {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-blayne {
+  .about-us-blayne {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me {
+  .about-us-about-me {
     margin-bottom: 32px;
   }
-  .about\ us-name {
+  .about-us-name {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .about\ us-burak {
+  .about-us-burak {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me1 {
+  .about-us-about-me1 {
     margin-bottom: 32px;
   }
-  .about\ us-name1 {
+  .about-us-name1 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .about\ us-charlie {
+  .about-us-charlie {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me2 {
+  .about-us-about-me2 {
     margin-bottom: 32px;
   }
-  .about\ us-name2 {
+  .about-us-name2 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .about\ us-container4 {
+  .about-us-container4 {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-helia {
+  .about-us-helia {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me3 {
+  .about-us-about-me3 {
     margin-bottom: 32px;
   }
-  .about\ us-name3 {
+  .about-us-name3 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .about\ us-jake {
+  .about-us-jake {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me4 {
+  .about-us-about-me4 {
     margin-bottom: 32px;
   }
-  .about\ us-name4 {
+  .about-us-name4 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .about\ us-michelle {
+  .about-us-michelle {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .about\ us-about-me5 {
+  .about-us-about-me5 {
     margin-bottom: 32px;
   }
-  .about\ us-name5 {
+  .about-us-name5 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
 }
