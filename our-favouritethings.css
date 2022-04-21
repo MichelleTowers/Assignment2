@@ -324,7 +324,9 @@
   max-width: 1200px;
   align-self: center;
 }
-
+.navbar-root-class-name11 {
+  align-self: center;
+}
 @media(max-width: 991px) {
   .navbar-container {
     display: none;
@@ -405,15 +407,11 @@
   align-items: center;
   flex-direction: column;
 }
-.footer-link {
-  display: contents;
-}
 .footer-github-logo1 {
   fill: var(--dl-color-gray-black);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-doubleunit);
-  text-decoration: none;
 }
 .footer-httpsgithubcom-michelle-towers-assignment2 {
   color: var(--dl-color-gray-black);
@@ -443,7 +441,7 @@
 
 
 
-.our-favouritethings-container {
+.our\ favourite\ things-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -452,4 +450,147 @@
   flex-direction: column;
   justify-content: flex-start;
   background-color: rgba(255, 224, 224, 0.42);
+}
+.our\ favourite\ things-container1 {
+  width: 97%;
+  height: 100%;
+  margin: var(--dl-space-space-doubleunit);
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.our\ favourite\ things-container2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.our\ favourite\ things-image {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image01 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image02 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image03 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-container3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.our\ favourite\ things-image04 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image05 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image06 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image07 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-container4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.our\ favourite\ things-image08 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image09 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image10 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image11 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-container5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.our\ favourite\ things-image12 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image13 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image14 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
+}
+.our\ favourite\ things-image15 {
+  width: 25%;
+  height: 25%;
+  margin: var(--dl-space-space-unit);
+  object-fit: cover;
 }
